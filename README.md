@@ -1,6 +1,6 @@
 # Ionic Dev App - Custom
 
-This is an experimental version of the now defunct Ionic DevApp that developers compile themselves using the native plugins and functionality they need. Then that app can be used to test their apps without any limitations. Think of it as a special on-device test and debug experience for your app.
+This is an experimental version of the now defunct Ionic DevApp that developers compile themselves using the native plugins and functionality they need. That app can then be used to test their apps without any limitations. Think of it as a special on-device test and debug experience for your app.
 
 ## Getting Started
 
